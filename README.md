@@ -1,4 +1,4 @@
-# Multi-line-splited-rows
+# Multi-line-splited-rows [Solution]
 
 This script is usefull when your data splieted into mutilple rows and you want to merge in its parent row.
 Example:-
