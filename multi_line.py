@@ -5,11 +5,7 @@ Usage Import the below libraries and then add the multi_line_ext(line_items, mul
 '''
 from tabula import wrapper
 import numpy as np
-import json
 import re
-import os
-import sys
-import yaml
 import traceback
 import pdfplumber
 import pandas as pd
