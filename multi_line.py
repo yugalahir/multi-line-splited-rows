@@ -1,6 +1,7 @@
 '''
-Developed by Yugal Kumar Ahir
-Purpose - Merging the multiple line description of the product into its parent row
+Developed by Yugal Kumar Ahir.
+Purpose - Merging the multiple line description of the product into its parent row.
+Usage Import the below libraries and then add the multi_line_ext(line_items, multi_line_items) into your class.
 '''
 from tabula import wrapper
 import numpy as np
